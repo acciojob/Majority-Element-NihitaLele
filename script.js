@@ -12,5 +12,3 @@ function findMajorityElement(nums) {
   return candidate;
 }
 
-// Example usage:
-console.log(findMajorityElement([2, 1, 2])); // Output: 2
